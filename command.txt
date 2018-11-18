@@ -1,0 +1,11 @@
+cd cs241
+echo Hey!
+exit
+echo
+exit
+echo
+exit
+echo hello world
+echo
+echo this
+exit
